@@ -1,3 +1,14 @@
+:snes_buckrogers:00000000:C235-CDA9:00000000:FFFFFFFF:Infinite Health
+:snes_buckrogers:00000000:C229-C709:00000000:FFFFFFFF:Infinite Lives
+:snes_buckrogers:00000000:C2BC-3D0F:00000000:FFFFFFFF:Infinite Grenades
+:snes_buckrogers:00000000:33B0-4467:00000000:FFFFFFFF:Invincibility (flashing)
+:snes_buckrogers:00000000:DD37-D7A1:00000000:FFFFFFFF:Start with Powerful Gun
+:snes_buckrogers:00000000:FDBA-C701:00000000:FFFFFFFF:Start with homing rockets
+:snes_buckrogers:00000000:FDBA-C761:00000000:FFFFFFFF:Start with powerful homing rockets
+:snes_buckrogers:00000000:65BA-4F01:00000000:FFFFFFFF:Select stage on game over screen
+:snes_buckrogers:00000000:DFBC-CDAF:00000000:FFFFFFFF:Start with more grenades
+:snes_buckrogers:00000000:D8C1-C701:00000000:FFFFFFFF:Super jumps
+:snes_buckrogers:00000000:C2A5-C7D7:00000000:FFFFFFFF:No background scrolling
 :snes_sb2020:00000000:7F80CA63:00000000:FFFFFFFF:Have lots of money - P1
 :snes_sb2020:00008000:7F80CC63:00000000:FFFFFFFF:Have lots of money - P1
 :snes_sb2020:00008000:7F80CB63:00000000:FFFFFFFF:Have lots of money - P1
