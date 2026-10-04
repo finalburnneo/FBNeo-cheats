@@ -58822,12 +58822,12 @@
 :grdforce:00010000:601F043:0000000C:FFFFFFFF:Always Have Maximum Shot Power PL2 (2/2)
 
 ; [ Guardians / Denjin Makai II ]
-:grdians:60000000:000000:00000000:00000000:¡ùOnly for Jinrei, Zeldia, Girulian and Kurokishi
+:grdians:60000000:000000:00000000:00000000:â€»Only for Jinrei, Zeldia, Girulian and Kurokishi
 :grdians:20800000:18E425:00000004:FFFFFFFF:Fix the 1st boss's head splitted when grabbed
 :grdians:20810000:18E427:000000EC:FFFFFFFF:Fix the 1st boss's head splitted when grabbed (2/4)
 :grdians:20810000:18E55D:00000004:FFFFFFFF:Fix the 1st boss's head splitted when grabbed (3/4)
 :grdians:20810000:18E55F:000000EC:FFFFFFFF:Fix the 1st boss's head splitted when grabbed (4/4)
-:grdians:20800000:0A6B44:000000FF:FFFFFFFF:Jinrei's move "A+¡ý¡ü" is always rare pattern
+:grdians:20800000:0A6B44:000000FF:FFFFFFFF:Jinrei's move "A+â†“â†‘" is always rare pattern
 :grdians:00000000:2014F1:00000009:FFFFFFFF:Infinite Credits
 :grdians:00000000:201312:0000009A:FFFFFFFF:Infinite Time
 :grdians:60000000:000000:00000000:00000000:
