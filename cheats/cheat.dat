@@ -70,13 +70,19 @@
 
 : [ mushitam ]
 :mushitam:00000000:C0564F7:00000009:FFFFFFFF:Infinite Credits
-:mushitam:00100000:C172F48:00000207:FFFFFFFF:P1 Infinite Move Time
-:mushitam:00000000:C175CF3:00000004:FFFFFFFF:P1 Infinite Lives
+:mushitam:00100000:C172F4A:0000022C:FFFFFFFF:Infinite Opreation Time PL1
+:mushitam:00000000:C175CF3:00000002:FFFFFFFF:Infinite Lives PL1
+:mushitam:60000000:0000000:00000000:00000000:[ Only For Vs Mode ]
+:mushitam:00100000:C172F4E:0000022C:FFFFFFFF:Infinite Opreation Time PL2
+:mushitam:00000000:C175CF7:00000002:FFFFFFFF:Infinite Lives PL2
 
 : [ mushitama ]
 :mushitama:00000000:C0564F7:00000009:FFFFFFFF:Infinite Credits
-:mushitama:00100000:C172F48:00000207:FFFFFFFF:P1 Infinite Move Time
-:mushitama:00000000:C175CF3:00000004:FFFFFFFF:P1 Infinite Lives
+:mushitama:00100000:C172F4A:0000022C:FFFFFFFF:Infinite Opreation Time PL1
+:mushitama:00000000:C175CF3:00000002:FFFFFFFF:Infinite Lives PL1
+:mushitama:60000000:0000000:00000000:00000000:[ Only For Vs Mode ]
+:mushitama:00100000:C172F4E:0000022C:FFFFFFFF:Infinite Opreation Time PL2
+:mushitama:00000000:C175CF7:00000002:FFFFFFFF:Infinite Lives PL2
 
 : [ mushisam ]
 :mushisam:00000000:C056BE7:00000009:FFFFFFFF:Infinite Credits
